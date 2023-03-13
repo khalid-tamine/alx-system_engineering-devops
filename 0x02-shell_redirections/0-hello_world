@@ -1,6 +1,0 @@
-<<<<<<< HEAD
-#!/bin/bash
- echo Hello, World 
-=======
-echo 'Hello, World' > 0-hello_world
->>>>>>> d5fdc6923fc2ee62af7fa7f1be16e0e0d4ab3b9f
